@@ -48,4 +48,5 @@ The Random Forest model was selected as the final model due to its highest accur
    git clone <repository_link>
    cd fake-job-detection
 pip install -r requirements.txt
+
 streamlit run app.py
